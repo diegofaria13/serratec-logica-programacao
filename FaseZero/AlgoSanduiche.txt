@@ -1,0 +1,10 @@
+Questão 9 - algoritmo sanduiche.
+
+1 - Pegar a sacola de pão de forma.
+2 - Pegar duas fatias de pão.
+3 - Passar manteiga nas fatias do pão.
+4 - Colocar uma fatia de queijo sobre a manteiga de uma fatia do pão.
+5 - Pegar a fatia de pão sem o queijo e colocar o pão com a parte da manteiga virada para o queijo por cima do queijo.
+6 - Colocar o sanduiche na torradeira.
+7 - Esperar até o pão estar torrado.
+8 - Retirar o pão da torradeira.
