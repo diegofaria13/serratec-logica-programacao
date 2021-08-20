@@ -1,4 +1,4 @@
-/*Questão 11 - Criar o novo aplicativo “Saudações”, com três linhas 
+/*Algoritmo - Questão 11 - Criar o novo aplicativo “Saudações”, com três linhas 
 de mensagem, uma para cada cumprimento - Bom dia, boa tarde, boa noite.*/
 
 
