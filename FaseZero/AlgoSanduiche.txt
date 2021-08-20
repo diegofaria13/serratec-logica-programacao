@@ -1,4 +1,4 @@
-Questão 9 - Para o jantar da sexta à noite, a Giulia decidiu fazer um sanduíche. Mas para que sua filha possa acompanhar a montagem, 
+Algoritmo - Questão 9 - Para o jantar da sexta à noite, a Giulia decidiu fazer um sanduíche. Mas para que sua filha possa acompanhar a montagem, 
 irá anotar o passo a passo da preparação e a ordem das camadas de recheio..
 
 1 - Pegar a sacola de pão de forma.
