@@ -1,3 +1,5 @@
+# Questões dissertativas FaseDois
+
 1. *Para cada informação abaixo, classifique segundo o tipo de dados.*
 * *Quantidade de vendedores da loja* integer
 * *Nome da rua, com número e complemento* string
