@@ -3,7 +3,8 @@
 var ler = require("prompt-sync")();
 
 for(var i=0; i<5; i++){
-    console.log("Parabéns ouvinte! Você foi o ganhador do prêmio ", i+1);
+    var ouvinte=i+1;
+    console.log("Parabéns ouvinte " + ouvinte +", Você foi o ganhador do prêmio!");
 }
 
 console.log("Parabéns aos nossos 5 ganhadores!");
