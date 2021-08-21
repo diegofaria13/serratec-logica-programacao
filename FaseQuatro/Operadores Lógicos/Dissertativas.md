@@ -9,23 +9,23 @@
 
 3. *Escreva a tabela verdade de cada operador lógico.*
 * Tabela verdade and (&&)
-    P | Q | and   
-    v | v | v
-    v | f | f
-    f | v | f
-    f | f | f
+   * P | Q | and   
+   * v | v | v
+   * v | f | f
+   * f | v | f
+   * f | f | f
 
 * Tabela verdade or (||)
-    P | Q | or   
-    v | v | v
-    v | f | v
-    f | v | v
-    f | f | f
+   * P | Q | or   
+   * v | v | v
+   * v | f | v
+   * f | v | v
+   * f | f | f
 
 * Tabela verdade not (!)
-    P | Q | and   
-    v |   | f
-    f |   | v
+   * P | Q | and   
+   * v |   | f
+   * f |   | v
 
 4. *Quais os operadores aritméticos equivalentes aos lógicos?*
 * and é a multiplicação, e or é a soma.
