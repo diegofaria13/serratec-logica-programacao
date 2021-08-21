@@ -4,7 +4,7 @@ var jogos = 345.00;
 console.log("\nJogos ............  R$" + jogos.toFixed(2));
 var videoGame = 1545.00;
 console.log("Videogame ........ R$" + videoGame.toFixed(2));
-var juros = jogos + videoGame * (1.5/100);
+var juros = (jogos + videoGame) * (1.5/100);
 var totalSemJuros= jogos + videoGame;
 console.log("Total da compra .. R$" + totalSemJuros.toFixed(2));
 var totalComJuros = jogos + videoGame + juros;
