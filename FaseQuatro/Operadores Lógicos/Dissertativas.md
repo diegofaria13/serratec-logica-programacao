@@ -58,16 +58,19 @@
 
 10. *Escreva a negação das expressões abaixo, aplicando antônimos nos substantivos ou adjetivos.*
 * *Somos uma turma comunista, portanto o professor é o nosso supremo marechal e nos manda o que fazer.*
+  * Não somos uma turma comunista, portanto o professor é nosso amigo e nos indica o que fazer.
 * *O jovem passeava tranquilamente pelo parque carregando seu violino para a suave sinfonia.*
+ * O jovem não passeava assutado pelo paruqe carregando seu violino para a suave sinfonia.
 * *Antes de escovar os dentes sempre usava o fio dental, mesmo assim ficaram amarelados.*
+  * Antes de escovar os dentes nuca usava fio dental, mesmo assim meus dentes ficaram amarelados.
 
 11. *Com base no conceito da negação, escreva o masculino ou o feminino dos nomes*
-* *Flávia* -->
-* *André* -->
-* *Júlio* -->
-* *Sandra* -->
-* *Carlos* -->
-* *Maria* -->
-* *Felipe* -->
-* *Beatriz* -->
+* *Flávia* --> Flávio.
+* *André* -->Andréa.
+* *Júlio* --> Júlia.
+* *Sandra* --> Sandro.
+* *Carlos* --> Carla.
+* *Maria* --> Mario.
+* *Felipe* --> Felipa.
+* *Beatriz* --> Beatrizo
 
