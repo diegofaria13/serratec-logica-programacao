@@ -5,7 +5,7 @@ var idadeCarol = 25;
 var idadeCarlos = 0;
 var idadeGilnei = 37;
 var idadeLeandro = 28;
-var idadeMarcella = 0;
+var idadeMarcella = 31;
 
 var SomaIdade = idadeDiego+idadeCarol+idadeCarlos+idadeGilnei+idadeLeandro+idadeMarcella;
 
