@@ -2,11 +2,11 @@
 
 var idadeDiego = 33;
 var idadeCarol = 25;
-var idadeCarlos = 0;
+var idadeCarlos = 56;
 var idadeGilnei = 37;
 var idadeLeandro = 28;
 var idadeMarcella = 31;
 
 var SomaIdade = idadeDiego+idadeCarol+idadeCarlos+idadeGilnei+idadeLeandro+idadeMarcella;
 
-console.log("A soma das idades do seu squad é: "+SomaIdade+" anos!");
+console.log("\nA soma das idades do seu squad é: "+SomaIdade+" anos!\n");
