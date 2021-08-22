@@ -1,5 +1,5 @@
 1. *Podemos dizer que os valores dos tipos de dados ordinais são como 'elementos de um conjunto’? Qual a característica que eles têm em comum?*
-* Um tipo ordinal é aquele cuja faixa de valores possíveis pode ser associada ao conjunto dos números inteiros inteiros positivos.
+* Um tipo ordinal é aquele cuja faixa de valores possíveis pode ser associada ao conjunto dos números inteiros positivos.
 
 2. *Quais são os valores do tipo de dados Lógico?*
 * True e False.
