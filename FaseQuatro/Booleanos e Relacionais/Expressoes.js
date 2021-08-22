@@ -6,7 +6,7 @@ Nesse exercício você deverá manter as variáveis e substituir apenas os opera
  */
 var x = 6.0;
 var y = 2;
-var z = 4000;
+var z = 4.000;
 var a = 8;
 var b = 7.5;
 var c = 12;
