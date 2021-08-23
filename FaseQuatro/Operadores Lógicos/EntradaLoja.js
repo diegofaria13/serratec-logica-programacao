@@ -6,8 +6,6 @@ var limite = 10;
 
 var numPesso = ler("Quantas pessoas estão dentro da loja?");
 
-if(numPesso < 10){
-    console.log("O próximo cliente pode entrar!");
-}else{
-    console.log("A loja esta cheia, aguarde!");
-}
+var liberado = numPesso < 10;
+
+console.log("Cliente pode entrar? " + liberado);
