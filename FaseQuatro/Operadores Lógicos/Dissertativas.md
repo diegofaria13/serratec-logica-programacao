@@ -1,4 +1,4 @@
-# QUestçoes dissertativas da lista de Operadores Lógicos FaseQuatro
+# Questões dissertativas da lista de Operadores Lógicos FaseQuatro
 
 1. *Qual a diferença entre operadores unários e binários?*
 
