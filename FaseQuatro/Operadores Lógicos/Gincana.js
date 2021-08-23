@@ -10,24 +10,25 @@ console.log("\nEquipe B: ");
 var pctsB = ler("Pacotes: ");
 var feijaoB = ler("Feijão: ");
 
-console.log("\n[Apuração]");
 var totalA = (feijaoA * 2) + parseInt(pctsA);
+var extraA = pctsA % 3 == 0;
+var totFinalA = extraA + totalA;
 
-if((pctsA % 3) == 0){
-    totalA = (feijaoA * 2) + parseInt(pctsA) + 1;
-}
-console.log("\nEquipe A: " + totalA);
 
 var totalB = (feijaoB * 2) + parseInt(pctsB);
+var extraB = pctsB % 3 == 0;
+var totFinalB = extraB + totalB;
 
-if((pctsB % 3) == 0){
-    totalB = (feijaoA * 2) + parseInt(pctsA) + 1;
-}
+console.log("\n[Apuração]");
+console.log("Equipe A: " + totFinalA);
+console.log("Equipe B: " + totFinalB);
 
-console.log("Equipe B: " + totalB);
+var AfoiMelhor = totFinalA > totFinalB;
+var BfoiMelhor = totFinalB > totFinalA;
 
-if(totalA > totalB){
-    console.log("E a vencedora é: Equipe A!");
-}else{
-    console.log("E a vencedora é: Equipe B!\n");
-}
+var campeaoA = AfoiMelhor || "Equipe B!";
+var campeaoB = BfoiMelhor || "Equipe A!";
+
+var resultfinal = campeaoB && campeaoA;
+
+console.log("E a vencedora é: " + resultfinal);
