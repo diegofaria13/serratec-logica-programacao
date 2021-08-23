@@ -16,10 +16,10 @@ var diesel = 0;
 
 
 console.log("\n _________________________________________________ ");
-console.log("|       ==== Pesquisa de Combustíveis: ====       |");
-console.log("|    Escolha o combustível de sua preferência:    |");
-console.log("|     1 - Gasolina    2 - Alcool     3 - GNV      |");
-console.log("|           4 - Diesel     5 - Sair               |");
+console.log("|    🚗 ==== Pesquisa de Combustíveis: ==== 🚗    |");
+console.log("|     Escolha o combustível de sua preferência:   |");
+console.log("|      1 - Gasolina    2 - Alcool     3 - GNV     |");
+console.log("|            4 - Diesel     5 - Sair              |");
 console.log("|_________________________________________________|");
 
 do{
