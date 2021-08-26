@@ -15,7 +15,7 @@
 * No while a variável de controle precisa ser iniciada antes, no do..while pode ser iniciada dentro da instrução, por exemplo.
 
 5. *Qual palavra podemos utilizar para facilitar o entendimento da forma de funcionamento da condição nas repetições?*
-* Enquanto ou Repita.
+* Continuidade.
 
 6. *Podemos entender um comando “enquanto” como um seletor? Justifique.*
 * Sim, pois ele é controlado por uma condição, que se atendida para a repetição.
