@@ -24,10 +24,14 @@ if( horasTrabalhadas > 160){
     salarioLiquido = novoSalBrut - descFinalInss;
 }else{
     salarioLiquido = salarioBruto - descFinalInss;
+    valorHorasExtrasTraba = 0;
 }
 
+
+console.log("=====================================");
 console.log("Funcionário: " + nome);
 console.log("Salário base: R$" + salarioBruto.toFixed(2));
 console.log("Valor de horas extras: R$ " + valorHorasExtrasTraba.toFixed(2));
 console.log("Desconto INSS: R$ " + descFinalInss.toFixed(2));
 console.log("Salário Líquido: R$ " + salarioLiquido.toFixed(2));
+console.log("=====================================")
